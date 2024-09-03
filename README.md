@@ -1,4 +1,4 @@
-# 📚 Título de la Tarea
+# 📚 Tarea 1
 
 ## Descripción
 Este proyecto es parte de la asignatura [Taller de herramientas cuantitativas para el análisis social], y tiene como objetivo [realizar una exploración de la data del covid 19 para ver el impacto en la poblacion mayor de 60 años].
