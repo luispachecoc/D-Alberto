@@ -7,7 +7,8 @@ Este proyecto es parte de la asignatura [Taller de herramientas cuantitativas pa
 Puedes acceder al proyecto en el siguiente enlace: [https://luispachecoc.github.io/D-Alberto/Alberto_pacheco.html].
 
 ## 👤 Estudiante
-**Nombre:** [Luis Alberto Pacheco Concha] /
+**Nombre:** [Luis Alberto Pacheco Concha] 
+
 **Correo:** [luis.pachecoc@pucp.edu.pe]
 
 ### 🚀 Tecnologías Utilizadas
